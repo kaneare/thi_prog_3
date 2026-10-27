@@ -1,0 +1,4 @@
+C:/Users/kaneare/Downloads/lab3_thi-main (1)/lab3_thi-main/build/CMakeFiles/third_lab_lib.dir
+C:/Users/kaneare/Downloads/lab3_thi-main (1)/lab3_thi-main/build/CMakeFiles/third_lab.dir
+C:/Users/kaneare/Downloads/lab3_thi-main (1)/lab3_thi-main/build/CMakeFiles/edit_cache.dir
+C:/Users/kaneare/Downloads/lab3_thi-main (1)/lab3_thi-main/build/CMakeFiles/rebuild_cache.dir
